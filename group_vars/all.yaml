@@ -1,4 +1,4 @@
-MONGODB_HOST: mongodb-{{ env }}.daws-86s.store # mongodb-dev.daws-86s.store
+#MONGODB_HOST: mongodb-{{ env }}.daws-86s.store # mongodb-dev.daws-86s.store
 REDIS_HOST: redis-{{ env }}.daws-86s.store
 CATALOGUE_HOST: catalogue-{{ env }}.daws-86s.store
 CART_HOST: cart-{{ env }}.daws-86s.store
@@ -7,3 +7,4 @@ RABBITMQ_HOST: rabbitmq-{{ env }}.daws-86s.store
 MYSQL_HOST: mysql-{{ env }}.daws-86s.store
 SHIPPING_HOST: shipping-{{ env }}.daws-86s.store
 PAYMENT_HOST: payment-{{ env }}.daws-86s.store
+MONGODB_HOST: mongodb-{{ env }}.daws-86s.store 
