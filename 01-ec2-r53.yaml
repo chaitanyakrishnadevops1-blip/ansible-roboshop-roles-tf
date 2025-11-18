@@ -5,7 +5,7 @@
     ami_id: ami-09c813fb71547fc4f
     sg_id:  sg-03ad1decd357277c0# replace with your SG ID
     zone_id: "Z072528332LMC00MTJ70B" # replace with your ID
-    domain_name: "daws86s.store"
+    domain_name: "daws-86s.store"
     # we can pass instances through command line using -e
     # instances: 
     # - mongodb
